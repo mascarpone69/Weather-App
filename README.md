@@ -1,6 +1,6 @@
 # Weather-App
 
-A simple web application to display the current weather in any city.  
+A simple web application to display the current weather in any cityyy..  
 
 **Features:**
 - Temperature in Celsius  
